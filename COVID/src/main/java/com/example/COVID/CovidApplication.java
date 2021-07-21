@@ -1,13 +1,13 @@
-package com.arimac.testcase;
+package com.example.COVID;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TestcaseApplication {
+public class CovidApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TestcaseApplication.class, args);
+		SpringApplication.run(CovidApplication.class, args);
 	}
 
 }

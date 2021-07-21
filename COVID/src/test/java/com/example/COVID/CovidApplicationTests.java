@@ -1,10 +1,10 @@
-package com.arimac.testcase;
+package com.example.COVID;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TestcaseApplicationTests {
+class CovidApplicationTests {
 
 	@Test
 	void contextLoads() {
